@@ -2,11 +2,6 @@
 """Mishko Art Scraper - downloads artwork images from https://mishko.co/
 
 Images are saved into the `images/` folder next to this script.
-
-Usage:
-    pip install -r requirements.txt
-    python mishko_art_scraper.py
-    python mishko_art_scraper.py --output my_folder
 """
 import argparse
 import sys
